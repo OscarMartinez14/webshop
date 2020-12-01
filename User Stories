@@ -1,0 +1,88 @@
+Funktionale-US-01	Beschreibung
+User Story 	Die Startseite soll angezeigt werden. 
+Art	Muss-Ziel
+Aufwand	1 Stunde
+
+Funktionale-US-02	Beschreibung
+User Story 	Als Benutzer möchte ich mich registrieren können.
+Art	Muss-Ziel
+Aufwand	1 Stunde
+
+Funktionale-US-03	Beschreibung
+User Story 	Als Benutzer möchte ich mich auf der Startseite anmelden können
+Art	Muss-Ziel
+Aufwand	0.5 Stunden
+
+Funktionale-US-04	Beschreibung
+User Story 	Im Registrierfenster muss ich mich mit einer Email, Adresse, einem Benutzernamen, Passwort und Geburtstag registrieren können.
+Art	Muss-Ziel
+Aufwand	0.5 Stunden
+
+Funktionale-US-05	Beschreibung
+User Story 	Wenn man einen Artikel verkaufen möchte, muss man Adresse, Personalien, Zahlungsart angeben.
+Art	Muss-Ziel
+Aufwand	0.5 Stunden
+
+Funktionale-US-06	Beschreibung
+User Story 	Als Nutzer möchte ich über eine Menubar, zu allen Fenstern gelangen können.
+Art	Muss-Ziel
+Aufwand	0.5 Stunden
+
+
+
+
+
+
+Funktionale-US-07	Beschreibung
+User Story 	Als Nutzer möchte ich Preis, Bilder, allgemeine Infos über einen Artikel sehen.
+Art	Muss-Ziel
+Aufwand	0.5 Stunden
+
+
+Funktionale-US-08	Beschreibung
+User Story 	Ich kann nach einer bestimmten Artikelkategorie suchen.
+Art	Muss-Ziel
+Aufwand	0.5 Stunden
+
+
+
+Funktionale-US-09	Beschreibung
+User Story 	Über die Suchleiste kann ich Artikel suchen.
+Art	Muss-Ziel
+Aufwand	0.5 Stunden
+
+
+Funktionale-US-10	Beschreibung
+User Story 	Ich kann einen Artikel in den Warenkorb legen und ihn dann im Warenkorb sehen und auch rauslöschen.
+Art	Muss-Ziel
+Aufwand	0.5 Stunden
+
+Funktionale-US-11	Beschreibung
+User Story 	Als Nutzer möchte ich ein Artikel kaufen oder ein Angebot erstellen können.
+Art	Muss-Ziel
+Aufwand	0.5 Stunden
+
+Funktionale-US-12	Beschreibung
+User Story 	Als Nutzer möchte ich einen von mir erstellten Artikel wieder entfernen können.
+Art	Muss-Ziel
+Aufwand	0.5 Stunden
+
+
+
+
+Funktionale-US-13	Beschreibung
+User Story 	Als Nutzer möchte ich Informationen über meinen Account sehen.
+Art	Muss-Ziel
+Aufwand	0.5 Stunden
+
+Funktionale-US-14	Beschreibung
+User Story 	Als Nutzer möchte ich meine Adresse und Zahlungsmethode verändern können.
+Art	Muss-Ziel
+Aufwand	0.5 Stunden
+
+
+
+Funktionale-US-15	Beschreibung
+User Story 	Als Nutzer möchte ich eine Übersicht meiner Bestellungen sehen.
+Art	Muss-Ziel
+Aufwand	0.5 Stunden
