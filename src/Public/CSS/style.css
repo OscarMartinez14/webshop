@@ -1,0 +1,178 @@
+html {
+	position: relative;
+	min-height: 100%;
+}
+
+.container {
+	margin: 0 auto;
+	max-width: 1920px;
+	width: 100%;
+}
+
+body {
+	margin-bottom: 60px;
+}
+
+.col s8 {
+	margin-left: -50px;
+}
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	line-height: 60px;
+	background-color: #353433;
+}
+
+.footer>.container {
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+.brand-logo {
+	padding: 0 0 0 30px;
+}
+
+.paddding10 {
+	padding: 10px;
+}
+
+#sidebar {
+	position: relative !important;
+	margin-top: 50px;
+	height: 500px;
+	margin-left: 30px;
+}
+
+.input-field {
+	width: 30%;
+	float: right;
+}
+
+.nav-wrapper {
+	background-color: #353433;
+}
+
+.sidenav-trigger {
+	display: block !important;
+}
+
+.setPictureSize {
+	margin-left: -50px;
+}
+
+.form-horizontal {
+	margin: 70px 50px 50px 50px;
+}
+
+.SellitPosition {
+	margin-left: 20px;
+}
+
+.msg-error { //
+	rouge border-color: #d32f2f;
+	background-color: #ef5350;
+	color: white;
+}
+
+.msg-alert { //
+	orange border-color: #ef6c00;
+	background-color: #ff9800;
+	color: white;
+}
+
+.msg-info {
+	border-color: #0288d1;
+	background-color: #29b6f6;
+	color: white;
+}
+
+.card-content {
+	
+}
+
+.card {
+	margin-right: 0;
+}
+
+.Price {
+	font-size: 21px;
+	color: red;
+	float: right;
+	font-weight: bold;
+}
+
+.white-text name {
+	font-size: 1px;
+}
+
+.YourAccountTitile {
+	text-align: center;
+}
+
+.Bold {
+	font-weight: bold;
+}
+
+.section {
+	margin-left: 150px;
+}
+
+.divider {
+	margin-left: 170px;
+	margin-right: 170px;
+}
+
+.accoubtBox {
+	margin-bottom: 100px;
+}
+
+.textarea {
+	height: 100px;
+	width: 500px;
+}
+
+.form-group {
+	margin-top: 30px;
+}
+
+.file-field {
+	float: left;
+}
+
+.switch {
+	width: 120px;
+}
+
+.btn {
+	margin-top: 20px;
+}
+
+.collapsible {
+	margin-left: 300px;
+	margin-right: 300px;
+	margin-top: 80px;
+	margin-bottom: 30px;
+}
+
+.ordersPosition {
+	margin-left: 10px;
+}
+
+.card {
+	height: 40%;
+	width: 40%;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.collection {
+	margin-left: 80px;
+	margin-right: 80px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
